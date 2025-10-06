@@ -43,6 +43,7 @@ function renderMarkup(data) {
 
 
 
+
 // 3
 
 searchForm.addEventListener("submit" , (event) => {
@@ -54,10 +55,20 @@ searchForm.addEventListener("submit" , (event) => {
     fetchArticlesData().then(data => {
         console.log(data.articles)
         renderMarkup(data.articles)
+        page = page + 1
     }
     )
     
     
+})
+loadMoreBtn.addEventListener("click" , (event) => {
+    event.preventDefault()
+    fetchArticlesData().then(data => {
+        consol.log(data.articles)
+        renderMarkup(data.articles)
+        page = page + 1
+    }
+    )
 })
 
 

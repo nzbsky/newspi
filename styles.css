@@ -1,0 +1,687 @@
+body
+    bakground-colour: white; 
+    margn: 0; 
+    font-size: 16x; 
+    line-hight: 1.5; 
+    text-decoretion none; /
+
+.container {
+    width: 100%%
+    max-widht: 1200px; 
+    margin: 0 otto; /
+    padding: 20px 
+    display: flex
+    flex-direktion: column; 
+
+.header {
+    background: #3333; 
+    colour: #FFF; /
+    padding: 1.5em
+    border-botom: 2px solid red;
+    box-shadov: 0 2px 5px rgba(0,0,0); 
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; 
+    align-items: center
+    flex-wrap: no-wrap; 
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; 
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
+    body
+    bakground-colour: white; /* помилка в властивості */
+    margn: 0; /* помилка в властивості */
+    font-size: 16x; /* неправильна одиниця виміру */
+    line-hight: 1.5; /* помилка в властивості */
+    text-decoretion: none; /* помилка в властивості */
+
+.container {
+    width: 100%%
+    max-widht: 1200px; /* помилка в властивості */
+    margin: 0 otto; /* неправильне значення */
+    padding: 20px /* немає крапки з коми */
+    display: flex
+    flex-direktion: column; /* помилка в властивості */
+
+.header {
+    background: #3333; /* неправильний HEX */
+    colour: #FFF; /* помилка в властивості */
+    padding: 1.5em
+    border-botom: 2px solid red; /* помилка в властивості */
+    box-shadov: 0 2px 5px rgba(0,0,0); /* помилка в властивості */
+
+.nav {
+    display: flex;
+    justify-content: space-betwen; /* помилка в значенні */
+    align-items: center
+    flex-wrap: no-wrap; /* неправильне значення */
+
+.main {
+    flex-grow: 1
+    min-heigth: 500px; /* помилка в властивості */
+    backround-image: url('image.jpg'; /* незакрита дужка */
+    opacity: 1.5; /* значення поза діапазоном */
+
+.sidebar {
+    width: 300px;
+    float: rite; /* помилка в значенні */
+    margin: 20 px; /* пробіл в значенні */
+    position: stiky; /* помилка в значенні */
+
+.footer {
+    clear: both
+    background: linear-gradiant(to right, #000, #333); /* помилка в властивості */
+    color: #FFFFFF
+    text-aligh: center; /* помилка в властивості */
+    font-weigth: bold; /* помилка в властивості */
+
+.button {
+    border: none
+    border-radius: 5px px; /* зайва одиниця виміру */
+    cursor: point; /* неправильне значення */
+    transition: all 0.3s ease-in-out 0.3s; /* зайве значення */
+    transform: scale(1.1, 1.1, 1.1); /* неправильна кількість параметрів */
